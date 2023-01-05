@@ -1,5 +1,5 @@
 - I’m @HanxiuZhang at East China Normal University (ECNU)
-- My research focuses on Trustworthy Machine Learning
+- My research focuses on Adversarial Robustness
 - ✉️hanxiu.zhang@hotmail.com
 
 <!---
