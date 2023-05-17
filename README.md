@@ -1,5 +1,5 @@
 - I’m @HanxiuZhang at East China Normal University (ECNU)
-- My research focuses on Adversarial Robustness
+- My research focuses on adversarial robustness
 - ✉️hanxiu.zhang@hotmail.com
 
 <!---
