@@ -1,6 +1,5 @@
-- I’m @HanxiuZhang at East China Normal University (ECNU)
-- My research focuses on adversarial robustness
-- ✉️hanxiu.zhang@hotmail.com / hanxiu_zhang@stu.ecnu.edu.cn
+- I’m @HanxiuZhang at CUHK-SZ(LGU)
+- ✉️hanxiu.zhang@hotmail.com / hanxiuzhang@link.cuhk.edu.cn
 
 <!---
 HanxiuZhang/HanxiuZhang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
