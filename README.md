@@ -1,4 +1,4 @@
-- I’m @HanxiuZhang at CUHK-SZ(LGU)
+- I’m HanxiuZhang at CUHK-SZ(LGU)
 - ✉️hanxiu.zhang@hotmail.com / hanxiuzhang@link.cuhk.edu.cn
 
 <!---
